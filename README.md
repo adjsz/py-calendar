@@ -1,6 +1,6 @@
 # py-calendar
 
-py-calendar is a simple CLI tool made for displaying the current date and the current calendar of the month
+py-calendar is a simple CLI tool made for displaying the current date and the current calendar of the month.
 
 # Installation
 
