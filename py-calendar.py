@@ -35,7 +35,7 @@ def prompt():
         print("1. Show today's date")
         print("2. Show today's calendar")
         print("3. Generate calendar")
-        print("4. Show both")
+        print("4. Show today's date and calendar")
         print("5. Exit\n")
         user_input = input("Enter your choice: ")
         
